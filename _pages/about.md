@@ -37,9 +37,9 @@ If you are interested in my research or have any questions, please feel free to 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-- FeCoGraph: Label-aware Federated Graph Contrastive Learning for Few-shot Network Intrusion Detection
-**Qinghua Mao**, Xi Lin, Wenchao Xu, Yuxin Qi, Xiu Su, Gaolei Li, Jianhua Li
-IEEE Transactions on Information Forensics & Security (Early access)
+- FeCoGraph: Label-aware Federated Graph Contrastive Learning for Few-shot Network Intrusion Detection <br>
+**Qinghua Mao**, Xi Lin, Wenchao Xu, Yuxin Qi, Xiu Su, Gaolei Li, Jianhua Li <br>
+IEEE Transactions on Information Forensics & Security (Early access) 
 - Prompting Label Efficiency in Federated Graph Learning Via Personalized Semi-Supervision <br>
 [paper](https://ieeexplore.ieee.org/abstract/document/10448483) [code](https://github.com/MaoPopovich/pfl_graph) <br>
 **Qinghua Mao**, Xi Lin, Xiu Su, Gaolei Li, Lixing Chen, Jianhua Li <br>
