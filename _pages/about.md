@@ -19,14 +19,9 @@ redirect_from:
 # About Me
 I am currently a third-year PhD candidate at Shanghai Jiao Tong Univeristy, supervised by [Dr. Xi Lin](https://www.cs.sjtu.edu.cn/jiaoshiml/linxi.html).
 I received my bachelor's degree of information security from School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2022, supervised by [Dr. Kui Meng](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=144). 
-My research interest includes trustworthy AI, retrieval augmented generation, large language models and graph machine learning.
+My research interests include graph neural networks, agent safety & security, recursive self-improvement, and trustworthy AI.
 If you are interested in my research or have any questions, please feel free to contact me.
 
-# Research Interests
-- Retrieval Augmented Generation
-- Large Language Models
-- Graph Neural Networks
-- Trustworthy AI
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 Our work "Towards Domain Generalized Neural Architecture Search via Language-Guided Visual Augmentation" has been ACCEPTED for publication in ACM Multimedia 2026 (Main Track).
@@ -121,6 +116,9 @@ arXiv preprint arXiv:2210.12662, 2022
 # 📖 Educations
 - *2022.09 - 2028.03 (expected)*, PhD candidate (master-doctor combind program), Computer Science and Cybersecurity, School of Computer Science, Shanghai Jiao Tong University. 
 - *2018.09 - 2022.06*, Bachelor, Information Security, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. 
+
+# 💼 Internships
+- *2026.02 - Present*, Research Intern, Shanghai AI Laboratory, Shanghai. 
 
 
 # 🎖 Honors
