@@ -51,7 +51,7 @@ Jiani Zhu, Xi Lin, Yuxin Qi, **Qinghua Mao**, Jianhua Li, Jun Wu <br>
 
 - <span class="pub-badge">npj Digit. Med.</span> [Large language models driven neural architecture search for universal and lightweight disease diagnosis on histopathology slide images](https://www.nature.com/articles/s41746-025-02042-x) <br>
 Xiu Su, **Qinghua Mao**, Zhongze Wu, Xi Lin, Shan You, Yue Liao, Chang Xu <br>
-*npj Digital Medicine, 2025*
+*npj Digital Medicine, 2025* <a href="https://github.com/MaoPopovich/Pathology-NAS" target="_blank" class="pub-icon-link" title="GitHub Code"><i class="fab fa-github"></i></a>
 
 - <span class="pub-badge">IEEE TIFS</span> [FeCoGraph: Label-aware Federated Graph Contrastive Learning for Few-shot Network Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/10884817) <br>
 **Qinghua Mao**, Xi Lin, Wenchao Xu, Yuxin Qi, Xiu Su, Gaolei Li, Jianhua Li <br>
