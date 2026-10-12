@@ -29,6 +29,9 @@ If you are interested in my research or have any questions, please feel free to 
 - Trustworthy AI
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our work "Towards Domain Generalized Neural Architecture Search via Language-Guided Visual Augmentation" has been ACCEPTED for publication in ACM Multimedia 2026 (Main Track).
+- *2026.05*: &nbsp;🚀 We released the technical report for "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security".
+- *2026.04*: &nbsp;🎉🎉 Our work "Is There a Structural Privacy Risk in Graph Prompting with LLMs?" has been ACCEPTED for publication in International Conference on Database Systems for Advanced Applications (DASFAA 2026).
 - *2025.11*: &nbsp;🎉🎉 Our work "Large language models driven neural architecture search for universal and lightweight disease diagnosis on histopathology slide images" has been ACCEPTED for publication in npj Digital Medicine.
 - *2025.01*: &nbsp;🎉🎉 Our work "FeCoGraph: Label-aware Federated Graph Contrastive Learning for Few-shot Network Intrusion Detection" has been ACCEPTED for publication as a REGULAR paper in IEEE Transactions on Information Forensics & Security.
 # 📝 Publications 
