@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am currently a third-year PhD candidate at Shanghai Jiao Tong University, supervised by [Dr. Xi Lin](https://www.cs.sjtu.edu.cn/jiaoshiml/linxi.html). Currently, I am also a research intern at Shanghai AI Laboratory, mentored by [Dongrui Liu](https://shenqildr.github.io/).
+I am currently a third-year PhD candidate at Shanghai Jiao Tong University, supervised by [Dr. Xi Lin](https://www.cs.sjtu.edu.cn/jiaoshiml/linxi.html). Currently, I am also a research intern at Shanghai AI Laboratory, mentored by [Dr. Dongrui Liu](https://shenqildr.github.io/).
 I received my bachelor's degree of information security from School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2022, supervised by [Dr. Kui Meng](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=144). 
 My research interests include graph neural networks, agent safety & security, recursive self-improvement, and trustworthy AI.
 If you are interested in my research or have any questions, please feel free to contact me.
