@@ -84,7 +84,7 @@ Wanying Qu, **Qinghua Mao**, Yu Li, Jiyao Liu, Xin Zhang, Dadi Guo, Yanxu Zhu, Q
 *arXiv preprint arXiv:2608.09885, 2026* <a href="https://github.com/RainbowQTT/SHE" target="_blank" class="pub-icon-link" title="GitHub Code"><i class="fab fa-github"></i></a>
 
 - [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://arxiv.org/pdf/2605.29801) <br>
-Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, Yuejin Xie, **Qinghua Mao**, Wanying Qu, Yanxu Zhu, Tianyi Zhou, Leitao Yuan, Zhijie Zheng, Qihao Lin, Yimin Wang, Haoyu Luo, Shuai Shao, Chen Qian, Qingyu Liu, Ling Tang, Ruiyang Qin, Qihan Ren, Junxiao Yang, Kun Wang, Zhiheng Xi, Linfeng Zhang, Ranjie Duan, Bo Zhang, Wenjie Wang, Wen Shen, Qiaosheng Zhang, Yan Teng, Chaochao Lu, Rui Mei, Man Li, Jialing Tao, Xi Lin, Tianhang Zheng, Yong Liu, Quanshi Zhang, Lei Zhu, Xingjun Ma, Junhua Liu, Hui Xue, Xiaoxiang Zuo, Xiangnan He, Chao Shen, Xianglong Liu, Minlie Huang, Jing Shao, Xia Hu <br>
+Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, Yuejin Xie, **Qinghua Mao**, Wanying Qu, Yanxu Zhu, Tianyi Zhou, et al. <br>
 *Technical Report / arXiv preprint arXiv:2605.29801, 2026* <a href="https://github.com/AI45Lab/AgentDoG" target="_blank" class="pub-icon-link" title="GitHub Code"><i class="fab fa-github"></i></a> [<a href="https://ai45lab.github.io/AgentDoG/" target="_blank">Project</a>]
 
 - [Frequency-Domain Regularized Adversarial Alignment for Transferable Attacks against Closed-Source MLLMs](https://arxiv.org/pdf/2605.21541) <br>
