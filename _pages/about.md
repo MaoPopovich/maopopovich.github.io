@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am currently a second-year PhD candidate at Shanghai Jiao Tong Univeristy, supervised by [Dr. Xi Lin](https://www.cs.sjtu.edu.cn/jiaoshiml/linxi.html).
+I am currently a third-year PhD candidate at Shanghai Jiao Tong Univeristy, supervised by [Dr. Xi Lin](https://www.cs.sjtu.edu.cn/jiaoshiml/linxi.html).
 I received my bachelor's degree of information security from School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2022, supervised by [Dr. Kui Meng](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=144). 
 My research interest includes trustworthy AI, retrieval augmented generation, large language models and graph machine learning.
 If you are interested in my research or have any questions, please feel free to contact me.
@@ -52,6 +52,7 @@ Jiani Zhu, Xi Lin, Yuxin Qi, **Qinghua Mao**, Jun Wu <br>
 IEEE Transactions on Dependable and Secure Computing (TDSC), 2026
 
 - Is There a Structural Privacy Risk in Graph Prompting with LLMs? <br>
+[paper](https://link.springer.com/chapter/10.1007/978-981-97-2977-7_36) <br>
 Jiani Zhu, Xi Lin, Yuxin Qi, **Qinghua Mao**, Jianhua Li, Jun Wu <br>
 International Conference on Database Systems for Advanced Applications (DASFAA 2026)
 
@@ -88,17 +89,17 @@ Xinling Li, Dadi Guo, Qingyu Liu, **Qinghua Mao**, Yi R Fung, Na Zou, Xia Hu, Do
 arXiv preprint arXiv:2610.06576, 2026
 
 - SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment <br>
-[paper](https://arxiv.org/pdf/2609.02786) <br>
+[paper](https://arxiv.org/pdf/2609.02786) [code](https://github.com/MaoPopovich/SafeEvolve) <br>
 **Qinghua Mao**, Wanying Qu, Dadi Guo, Leitao Yuan, Qingyu Liu, Yu Li, Guanxu Chen, Yanwei Fu, Xi Lin, Xia Hu, Dongrui Liu <br>
 arXiv preprint arXiv:2609.02786, 2026
 
 - SHE: Trajectory-Driven Safety Harness Evolution for LLM Agents <br>
-[paper](https://arxiv.org/pdf/2608.09885) <br>
+[paper](https://arxiv.org/pdf/2608.09885) [code](https://github.com/RainbowQTT/SHE) <br>
 Wanying Qu, **Qinghua Mao**, Yu Li, Jiyao Liu, Xin Zhang, Dadi Guo, Yanxu Zhu, Qingyu Liu, Leitao Yuan, Xi Lin, Shanfeng Zhu, Yanwei Fu, Jing Shao, Xia Hu, Dongrui Liu <br>
 arXiv preprint arXiv:2608.09885, 2026
 
 - AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security <br>
-[paper](https://arxiv.org/pdf/2605.29801) [project](https://ai45lab.github.io/AgentDoG/) <br>
+[paper](https://arxiv.org/pdf/2605.29801) [code](https://github.com/AI45Lab/AgentDoG) [project](https://ai45lab.github.io/AgentDoG/) <br>
 Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, Yuejin Xie, **Qinghua Mao**, Wanying Qu, Yanxu Zhu, Tianyi Zhou, Leitao Yuan, Zhijie Zheng, Qihao Lin, Yimin Wang, Haoyu Luo, Shuai Shao, Chen Qian, Qingyu Liu, Ling Tang, Ruiyang Qin, Qihan Ren, Junxiao Yang, Kun Wang, Zhiheng Xi, Linfeng Zhang, Ranjie Duan, Bo Zhang, Wenjie Wang, Wen Shen, Qiaosheng Zhang, Yan Teng, Chaochao Lu, Rui Mei, Man Li, Jialing Tao, Xi Lin, Tianhang Zheng, Yong Liu, Quanshi Zhang, Lei Zhu, Xingjun Ma, Junhua Liu, Hui Xue, Xiaoxiang Zuo, Xiangnan He, Chao Shen, Xianglong Liu, Minlie Huang, Jing Shao, Xia Hu <br>
 Technical Report / arXiv preprint arXiv:2605.29801, 2026
 
